@@ -1,3 +1,4 @@
 <div align="center">
- <h2>botix-s</h2>
+ # **botix-s**
+ ### An advanced, muliti-purpose Discord Bot
 </div>
