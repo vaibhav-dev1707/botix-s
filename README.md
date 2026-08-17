@@ -15,7 +15,8 @@
 That said:
 - The project **can still be executed**
 
-<div aligm="center">🧠 About the Project
+<div align="center">
+  ##🧠 About the Project
 </div>
 
 **Botix-s** is an advanced, large scale, multi-purpose Discord bot.
