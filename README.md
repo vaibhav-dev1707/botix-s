@@ -1,3 +1,3 @@
 <div align="center">
-  # botix-s
+ <h2>botix-s</h2>
 </div>
