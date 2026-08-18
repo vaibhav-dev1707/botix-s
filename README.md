@@ -19,4 +19,6 @@ That said:
   ## 🧠 About the Project
 </div>
 
-**Botix-s** is an advanced, large scale, multi-purpose Discord bot.
+**Botix-s** is an advanced, large scale, multi-purpose Discord bot.<br>
+It was developed as a long term side project during my early programming years,driven by curiosity and the ambition to build a scalable feature-rich system rather than a minimal bot.
+
