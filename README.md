@@ -30,3 +30,13 @@ The focus is not only for adding commands, but on:
 - and maintaining a large codebase over time.
 
   This repository reflects the **structure, clarity and architectural thinking** I practiced early in my journey.
+
+  <div align="center">
+    
+  ##🧩 What this project Demonstraet
+  </div>
+
+  This project is showcased primarily for what it represents :
+  - **System Design & Modularity**
+    Clean separation of concerns, organized command handling, reuable utilities and scalable structure.
+  
