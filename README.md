@@ -33,10 +33,23 @@ The focus is not only for adding commands, but on:
 
   <div align="center">
     
-  ##🧩 What this project Demonstraet
+  ##🧩 What this project Demonstrate
   </div>
 
   This project is showcased primarily for what it represents :
   - **System Design & Modularity**
     Clean separation of concerns, organized command handling, reuable utilities and scalable structure.
+  - **Asynchronous Programming & API Integration**
+    Handling multiple external APIs, async workflow and real-time discord instructions.
+  - **Persistance & State Management**
+    MongoDB-backed data handling for server level and user-level features.
+  - **Long-Term Project Ownership**
+    Maintained, refactored and envolved over a long span rathre than built once and abandoned.
+
+<div align="center">
+ 
+## ⚙️System Capabilities (During Active Phase)
+</div>
+
+  While the bot is no longer fully functional,
   
