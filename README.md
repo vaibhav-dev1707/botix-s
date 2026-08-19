@@ -37,13 +37,13 @@ The focus is not only for adding commands, but on:
   </div>
 
   This project is showcased primarily for what it represents :
-  - **System Design & Modularity**
+  - **System Design & Modularity**<br>
     Clean separation of concerns, organized command handling, reuable utilities and scalable structure.
-  - **Asynchronous Programming & API Integration**
+  - **Asynchronous Programming & API Integration**<br>
     Handling multiple external APIs, async workflow and real-time discord instructions.
-  - **Persistance & State Management**
+  - **Persistance & State Management**<br>
     MongoDB-backed data handling for server level and user-level features.
-  - **Long-Term Project Ownership**
+  - **Long-Term Project Ownership**<br>
     Maintained, refactored and envolved over a long span rathre than built once and abandoned.
 
 <div align="center">
@@ -52,7 +52,7 @@ The focus is not only for adding commands, but on:
 </div>
 
 While the bot is no longer fully functional, during its active development phase it inculded :
-- **Extensive Command Architecture**
+- **Extensive Command Architecture**<br>
   -Admin and moderation systems
   -Utility, fun, game and information commands
   -Structurd categorized and permission handling
