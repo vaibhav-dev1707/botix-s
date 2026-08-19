@@ -17,7 +17,7 @@ That said:
 
 <div align="center">
 
-  # **🧠 About the Project**
+# **🧠 About the Project**
 </div>
 
 **Botix-s** is an advanced, large scale, multi-purpose Discord bot.<br>
@@ -29,22 +29,22 @@ The focus is not only for adding commands, but on:<br>
 - integrating external `API,<br>
 - and maintaining a large codebase over time.<br>
 
-  This repository reflects the **structure, clarity and architectural thinking** I practiced early in my journey.
+This repository reflects the **structure, clarity and architectural thinking** I practiced early in my journey.
 
-  <div align="center">
+<div align="center">
     
-  # **🧩 What this project Demonstrate**
-  </div>
+# **🧩 What this project Demonstrate**
+</div>
 
-  This project is showcased primarily for what it represents :
-  - **System Design & Modularity**<br>
-    Clean separation of concerns, organized command handling, reuable utilities and scalable structure.
-  - **Asynchronous Programming & API Integration**<br>
-    Handling multiple external APIs, async workflow and real-time discord instructions.
-  - **Persistance & State Management**<br>
-    MongoDB-backed data handling for server level and user-level features.
-  - **Long-Term Project Ownership**<br>
-    Maintained, refactored and envolved over a long span rathre than built once and abandoned.
+This project is showcased primarily for what it represents :
+- **System Design & Modularity**<br>
+  Clean separation of concerns, organized command handling, reuable utilities and scalable structure.
+- **Asynchronous Programming & API Integration**<br>
+  Handling multiple external APIs, async workflow and real-time discord instructions.
+- **Persistance & State Management**<br>
+  MongoDB-backed data handling for server level and user-level features.
+- **Long-Term Project Ownership**<br>
+  Maintained, refactored and envolved over a long span rathre than built once and abandoned.
 
 <div align="center">
  
