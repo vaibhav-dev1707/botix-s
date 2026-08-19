@@ -17,7 +17,7 @@ That said:
 
 <div align="center">
 
-  #🧠 About the Project
+  # **🧠 About the Project**
 </div>
 
 **Botix-s** is an advanced, large scale, multi-purpose Discord bot.<br>
@@ -33,7 +33,7 @@ The focus is not only for adding commands, but on:<br>
 
   <div align="center">
     
-  #🧩 What this project Demonstrate
+  # **🧩 What this project Demonstrate**
   </div>
 
   This project is showcased primarily for what it represents :
@@ -48,7 +48,7 @@ The focus is not only for adding commands, but on:<br>
 
 <div align="center">
  
-# ⚙️System Capabilities (During Active Phase)
+# **⚙️System Capabilities (During Active Phase)**
 </div>
 
 While the bot is no longer fully functional, during its active development phase it inculded :
