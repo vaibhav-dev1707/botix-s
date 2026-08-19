@@ -17,7 +17,7 @@ That said:
 
 <div align="center">
 
-## 🧠 About the Project
+  ##🧠 About the Project
 </div>
 
 **Botix-s** is an advanced, large scale, multi-purpose Discord bot.<br>
@@ -51,5 +51,24 @@ The focus is not only for adding commands, but on:
 ## ⚙️System Capabilities (During Active Phase)
 </div>
 
-  While the bot is no longer fully functional,
+While the bot is no longer fully functional, during its active development phase it inculded :
+- **Extensive Command Architecture**
+  -Admin and moderation systems
+  -Utility, fun, game and information commands
+  -Structurd categorized and permission handling
+- **External API Integrations**
+  -News, weather, jokes, memes
+  -Image providers(unsplaash, pexels
+  -Duolingo statistics and other dynamic data sources
+- **User Experience Feature**
+  -Custom embeds and interactive components
+  -Welcome Systems and varification flows
+  -Server-specific configuration
+- **Database-dirven Features
+  -AFK Training
+  -Cooldown Mamagement
+  -Nickname persistance
+  -Sticky messages and server defences
+
+These featured were designed to scale across servers and users with consistant behaviour .
   
