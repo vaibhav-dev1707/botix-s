@@ -64,7 +64,7 @@ While the bot is no longer fully functional, during its active development phase
   -Custom embeds and interactive components<br>
   -Welcome Systems and varification flows<br>
   -Server-specific configuration<br>
-- **Database-dirven Features<br>
+- **Database-dirven Features**<br>
   -AFK Training<br>
   -Cooldown Mamagement<br>
   -Nickname persistance<br>
@@ -74,7 +74,7 @@ These featured were designed to scale across servers and users with consistant b
   
 <div align="center">
 
-  **🧭 Why Archived & Public**
+ # **🧭 Why Archived & Public**
 </div>
 
 Botix-s is archived by choices:
