@@ -72,3 +72,17 @@ While the bot is no longer fully functional, during its active development phase
 
 These featured were designed to scale across servers and users with consistant behaviour .
   
+<div align="center">
+
+  **🧭 Why Archived & Public**
+</div>
+
+Botix-s is archived by choices:
+
+It represents:
+
+- an early but serious engineering effort,
+- proof of long-term commitment to a single project,
+- and the foundation that later projects build upon.
+
+Rather than deleting , this repository is preserved as a **transport snapshot of growth**.
