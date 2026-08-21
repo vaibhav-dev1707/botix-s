@@ -95,4 +95,4 @@ Rather than deleting , this repository is preserved as a **transport snapshot of
 Botix-s is not mean to compete with other discord bots.
 It exists to show **where my engineering mindset was forming**, long before my current projects.
 
-If u'r exploring  this repository, view it as a portfolio case study, not a ready-to-use tool.
+If u'r exploring  this repository, view it as a **portfolio case study**, not a ready-to-use tool.
